@@ -4,7 +4,7 @@
 <h3>Frontend developer Jr and loading... <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><br><br><br>My background is Architecture and design <img src="https://media3.giphy.com/media/lp7G8RCJRrY4axBQo7/giphy.gif?cid=790b761164cb02f5973015bf71861578af2825a0d64b73b5&rid=giphy.gif&ct=s" width="30"><br><br><br>Coffee lover <img src="https://media0.giphy.com/media/fYTrU8WzMJP1aSHOXy/giphy.gif" width="30">
 </h3>
 <hr>
-<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+<p><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  </p>
 
 ```javascript
 const kari = {
@@ -12,18 +12,31 @@ const kari = {
   pronouns: "she" | "her",
   learned: [HTML,CSS,Javascript,Bootstrap,Flexbox,Grid],
   learning: [React,Firebase,MaterialUI],
-  otherKnowledge:[GraphicDesign,UX/UI,QAmanual],
+  otherKnowledge:[GraphicDesign,UX/UI,QA],
   soon: [Typescript,NodeJS,MongoDB,SQL],
   preferences: {
                 animal: "Cat 😻",
-                food: "Pizza 🍕 + Icecream 🍦",
-                criptocurrencys: "ADA + ETH 🤑"
+                food: "Pizza 🍕 and Icecream 🍦",
+                newestPassion: "Blockchain and cryptocurrencies", 
+                favoriteCriptocurrency: "ETH 🤑"
                 },
 }
 ```
 
 [![Linkedin: krypto](https://img.shields.io/badge/-kryptonitta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/karina-z-9279561a6/)](https://www.linkedin.com/in/karina-z-9279561a6/)
 
-<h4 align='center'><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em><br><br>-> From Argentina 🇦🇷 <-</h4>
+<h3 align="center">✨ LINKS ✨</h3>
+<p align="center"> <a href="https://kryptonitta.github.io/landing_page/">Landing page</a></p>
+<p align="center"> <a href="https://kryptonitta.github.io/doubletrouble/">Double trouble</a></p>
+<p align="center"> <a href="https://kryptonitta.github.io/ecommerce01/">Ecommerce 01</a></p>
+<p align="center"> <a href="https://kryptonitta.github.io/christmas-calendar/">Christmas advent calendar</a></p>
+<p align="center"> <a href="https://kryptonitta.github.io/email_validator/">Email validator</a></p>
+<p align="center"> <a href="https://kryptonitta.github.io/choose_a_gift_form/">Choose a gift form</a></p>
+<p align="center"> <a href="https://kryptonitta.github.io/cssdraw_penguin/">A greeting penguin (css draw)</a></p>
+<p align="center"> <a href="https://kryptonitta.github.io/Beating_heart/">Beating heart (css draw)</a></p>
+<p align="center"> <a href="https://kryptonitta.github.io/cryptocurrency_quote/">Cryptocurrency quote</a></p>
+<hr>
+
+<h4 align='center'><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em><br><br>-> From Argentina 🇦🇷 <-</h4>
 
 ---
