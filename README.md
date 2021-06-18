@@ -36,6 +36,7 @@ const kari = {
 <p align="center"> <a href="https://kryptonitta.github.io/Beating_heart/">Beating heart (css draw)</a></p>
 <p align="center"> <a href="https://kryptonitta.github.io/cryptocurrency_quote/">Cryptocurrency quote</a></p>
 <p align="center"> <a href="https://kryptonitta.github.io/piano/">A simple piano</a></p>
+<p align="center"> <a href="https://github.com/Kryptonitta/mi-tienda">Amazon clone with React</a></p>
 <hr>
 
 <h4 align='center'><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em><br><br>-> From Argentina 🇦🇷 <-</h4>
