@@ -11,9 +11,9 @@ const kari = {
   nickname: "Krypto",
   pronouns: "she" | "her",
   learned: [HTML,CSS,Javascript,Bootstrap,Flexbox,Grid],
-  learning: [React,Firebase,MaterialUI],
+  learning: [Typescript,React,NodeJs,Express,Solidity],
   otherKnowledge:[GraphicDesign,UX/UI,QA],
-  soon: [Typescript,NodeJS,MongoDB,SQL],
+  soon: [MongoDB,SQL],
   preferences: {
                 animal: "Cat 😻",
                 food: "Pizza 🍕 and Icecream 🍦",
