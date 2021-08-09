@@ -18,7 +18,7 @@ const kari = {
                 animal: "Cat 😻",
                 food: "Pizza 🍕 and Icecream 🍦",
                 newestPassion: "Blockchain and cryptocurrencies", 
-                favoriteCriptocurrency: "ETH 🤑"
+                favoriteCryptocurrency: "ETH 🤑"
                 },
 }
 ```
